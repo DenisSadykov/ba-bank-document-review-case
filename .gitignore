@@ -1,0 +1,5 @@
+.DS_Store
+work/
+*.tmp
+*.log
+outputs/process_scheme_bottom.png
